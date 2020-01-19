@@ -1,0 +1,3 @@
+[submodule "AnalyticsProject/Plugins/FirebaseAnalytics"]
+	path = AnalyticsProject/Plugins/FirebaseAnalytics
+	url = git@github.com:TheGetaway/FirebaseAnalytics.git
