@@ -41,6 +41,15 @@
 # Built data for maps
 *_BuiltData.uasset
 
+# Ignore paths for AuthenticationProject
+AuthenticationProject/.vs/
+AuthenticationProject/Plugins/
+AuthenticationProject/Binaries/*
+AuthenticationProject/Intermediate/*
+AuthenticationProject/Build/*
+AuthenticationProject/Saved/*
+AuthenticationProject/DerivedDataCache/*
+
 # Ignore paths for AnalyticsProject
 AnalyticsProject/.vs/
 AnalyticsProject/Binaries/*
