@@ -49,13 +49,14 @@ AuthenticationProject/Intermediate/*
 AuthenticationProject/Build/*
 AuthenticationProject/Saved/*
 AuthenticationProject/DerivedDataCache/*
+AuthenticationProject/Android_ASTC/
 
 # Ignore paths for AnalyticsProject
 AnalyticsProject/.vs/
+AnalyticsProject/Plugins/
 AnalyticsProject/Binaries/*
 AnalyticsProject/Intermediate/*
-AnalyticsProject/Plugins/*/Binaries/*
-AnalyticsProject/Plugins/*/Intermediate/*
 AnalyticsProject/Build/*
 AnalyticsProject/Saved/*
 AnalyticsProject/DerivedDataCache/*
+AnalyticsProject/Android_ASTC/
